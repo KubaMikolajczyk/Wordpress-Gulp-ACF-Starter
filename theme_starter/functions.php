@@ -115,25 +115,29 @@ if( function_exists('acf_add_options_page') )
 //   if you want some custom fields to be accesible from
 //   the global project perspective like cta that appear on each page
 //   then creating an option page like ""CTA Settings"" would be nice
-//   here you have Header settings and Footer settings for a good start
+//   here you have Theme, Header and Footer settings for a good start
 
 
 if( function_exists('acf_add_options_page') ) {
     acf_add_options_page([
-        'page_title'   => 'Header Settings',
-        'menu_title'   => 'Header Settings',
+        'page_title'   => 'Theme Settings',
+        'menu_title'   => 'Theme Settings',
         'menu_slug'    => 'theme-general-settings',
         'capability'   => 'edit_posts',
         'redirect'    => false
     ]);
 
-    acf_add_options_page([
-        'page_title'   => 'Footer Settings',
-        'menu_title'   => 'Footer Settings',
-        'menu_slug'    => 'theme-general-settings',
-        'capability'   => 'edit_posts',
-        'redirect'    => false
-    ]);
+    acf_add_options_sub_page(array(
+        'page_title' 	=> 'Header Settings',
+        'menu_title'	=> 'Header Settings',
+        'parent_slug'	=> 'theme-general-settings',
+    ));
+
+    acf_add_options_sub_page(array(
+        'page_title' 	=> 'Footer Settings',
+        'menu_title'	=> 'Footer Settings',
+        'parent_slug'	=> 'theme-general-settings',
+    ));
 }
 
 //------------------------------
