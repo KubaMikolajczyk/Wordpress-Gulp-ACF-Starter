@@ -1,0 +1,7 @@
+.example_page_section{
+  height: calc(100vh - 280px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $second_color;
+}

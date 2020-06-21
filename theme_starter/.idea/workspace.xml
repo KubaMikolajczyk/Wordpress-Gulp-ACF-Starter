@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="575244ba-ab8b-4086-9047-1785905ae4eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZaRNsTtin3ErgRa88vP8JA9CTP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Xampp\htdocs\dompodlasem\wp-content\themes\dompodlasem\src\scss\vendor" />
+      <recent name="E:\Xampp\htdocs\dompodlasem\wp-content\themes\dompodlasem\src\vendor\js" />
+      <recent name="E:\Xampp\htdocs\dompodlasem\wp-content\themes\dompodlasem\src\vendor\css" />
+      <recent name="E:\Xampp\htdocs\dompodlasem\wp-content\themes\dompodlasem\src\fonts" />
+      <recent name="E:\Xampp\htdocs\dompodlasem\wp-content\themes\dompodlasem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Xampp\htdocs\kubamikolajczyk\wp-content\themes\theme_starter\src\scss\_partials" />
+      <recent name="E:\Xampp\htdocs\dompodlasem\wp-content\themes\dompodlasem\src\js\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="575244ba-ab8b-4086-9047-1785905ae4eb" name="Default Changelist" comment="" />
+      <created>1585075182207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585075182207</updated>
+      <workItem from="1585075184746" duration="1478000" />
+      <workItem from="1585472948047" duration="24714000" />
+      <workItem from="1585596714743" duration="1239000" />
+      <workItem from="1585840526267" duration="12192000" />
+      <workItem from="1585929967238" duration="9205000" />
+      <workItem from="1586164117890" duration="301000" />
+      <workItem from="1586339307863" duration="13938000" />
+      <workItem from="1586599358697" duration="29751000" />
+      <workItem from="1587024096277" duration="16434000" />
+      <workItem from="1587465819961" duration="381000" />
+      <workItem from="1587466217810" duration="11000" />
+      <workItem from="1592737641069" duration="870000" />
+      <workItem from="1592741614214" duration="13173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

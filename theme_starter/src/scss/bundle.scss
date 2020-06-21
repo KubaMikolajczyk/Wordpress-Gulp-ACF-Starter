@@ -1,0 +1,16 @@
+//vendor
+@import './vendor/waves.scss';
+
+//components
+@import './components/colors.scss';
+@import './components/fonts.scss';
+@import './components/breadcrumbs.scss';
+@import './components/example_section.scss';
+
+//partials
+@import '_partials/header';
+@import '_partials/footer';
+
+//main page
+@import './pages/main/example_page_section';
+

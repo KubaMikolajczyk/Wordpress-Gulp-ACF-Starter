@@ -1,0 +1,11 @@
+{
+  "name": "Theme starter",
+  "short_name": "Theme starter",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
